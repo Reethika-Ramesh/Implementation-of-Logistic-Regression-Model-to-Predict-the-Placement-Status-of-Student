@@ -90,8 +90,10 @@ Predicted Values:
 ![image](https://user-images.githubusercontent.com/98682825/174331535-c908b330-cb10-42f1-95bf-6c4ea70e920a.png)
 Accuracy Score:
 ![image](https://user-images.githubusercontent.com/98682825/174331559-fe3324d7-1a00-45ac-b814-63c33640a267.png)
+```
 Confusion Matrix:
 ![image](https://user-images.githubusercontent.com/98682825/174331574-e28d99db-1860-48e2-869b-73578aee1d7f.png)
+```
 Classification Report:
 ![image](https://user-images.githubusercontent.com/98682825/174331600-c495ba26-a143-4407-8855-5ca6c915b02f.png)
 Predicting output from Regression Model:
