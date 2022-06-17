@@ -72,39 +72,53 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))*/
 ```
 
 ## Output:
-```
+
 Original data(first five columns):
+
 ![image](https://user-images.githubusercontent.com/98682825/174330831-41afd13c-d264-4aac-a045-2eaa18b4f0f5.png)
-```
-```
+
 Data after dropping unwanted columns(first five):
+
 ![image](https://user-images.githubusercontent.com/98682825/174331114-10294d7a-0e1d-4365-9d59-f2121053b689.png)
-```
-```
+
 Checking the presence of null values:
+
 ![image](https://user-images.githubusercontent.com/98682825/174331182-6961ad52-1f37-4936-85f0-c9ae7a5ab626.png)
-```
-```
+
 Checking the presence of duplicated values:
+
 ![image](https://user-images.githubusercontent.com/98682825/174331435-a55abf4a-e135-43ea-a9ef-38afde669f62.png)
-```
+
 Data after Encoding:
+
 ![image](https://user-images.githubusercontent.com/98682825/174331250-db11e856-ca79-4246-a83e-abc3011e2d58.png)
+
 X Data:
+
 ![image](https://user-images.githubusercontent.com/98682825/174331300-c1c87bc7-8dc5-4d60-ad37-ca4cac8be610.png)
+
 Y Data:
+
 ![image](https://user-images.githubusercontent.com/98682825/174331337-6bd65c3a-6050-4daa-9987-86b719f0170f.png)
+
 Predicted Values:
+
 ![image](https://user-images.githubusercontent.com/98682825/174331535-c908b330-cb10-42f1-95bf-6c4ea70e920a.png)
+
 Accuracy Score:
+
 ![image](https://user-images.githubusercontent.com/98682825/174331559-fe3324d7-1a00-45ac-b814-63c33640a267.png)
-```
+
 Confusion Matrix:
+
 ![image](https://user-images.githubusercontent.com/98682825/174331574-e28d99db-1860-48e2-869b-73578aee1d7f.png)
-```
+
 Classification Report:
+
 ![image](https://user-images.githubusercontent.com/98682825/174331600-c495ba26-a143-4407-8855-5ca6c915b02f.png)
+
 Predicting output from Regression Model:
+
 ![image](https://user-images.githubusercontent.com/98682825/174331635-e869ecb9-2398-46c4-8d77-622201cf5e98.png)
 
 
