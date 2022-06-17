@@ -72,14 +72,22 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))*/
 ```
 
 ## Output:
+```
 Original data(first five columns):
 ![image](https://user-images.githubusercontent.com/98682825/174330831-41afd13c-d264-4aac-a045-2eaa18b4f0f5.png)
+```
+```
 Data after dropping unwanted columns(first five):
 ![image](https://user-images.githubusercontent.com/98682825/174331114-10294d7a-0e1d-4365-9d59-f2121053b689.png)
+```
+```
 Checking the presence of null values:
 ![image](https://user-images.githubusercontent.com/98682825/174331182-6961ad52-1f37-4936-85f0-c9ae7a5ab626.png)
+```
+```
 Checking the presence of duplicated values:
 ![image](https://user-images.githubusercontent.com/98682825/174331435-a55abf4a-e135-43ea-a9ef-38afde669f62.png)
+```
 Data after Encoding:
 ![image](https://user-images.githubusercontent.com/98682825/174331250-db11e856-ca79-4246-a83e-abc3011e2d58.png)
 X Data:
